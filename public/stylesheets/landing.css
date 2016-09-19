@@ -1,0 +1,28 @@
+body {
+	background: url(https://farm4.staticflickr.com/3260/3358537884_f7bf1273eb.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+	color: white;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px red,
+	0px 8px 2px orange,
+	0px 18px 23px yellow;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+html {
+	height: 100%;
+}
+
+hr {
+	width: 400px;
+}
